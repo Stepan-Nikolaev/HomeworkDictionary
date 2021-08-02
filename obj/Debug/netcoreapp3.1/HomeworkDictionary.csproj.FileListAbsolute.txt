@@ -1,0 +1,12 @@
+D:\Степапка\DEX\Домашние задания\Dictionary\HomeworkDictionary\HomeworkDictionary\bin\Debug\netcoreapp3.1\HomeworkDictionary.exe
+D:\Степапка\DEX\Домашние задания\Dictionary\HomeworkDictionary\HomeworkDictionary\bin\Debug\netcoreapp3.1\HomeworkDictionary.deps.json
+D:\Степапка\DEX\Домашние задания\Dictionary\HomeworkDictionary\HomeworkDictionary\bin\Debug\netcoreapp3.1\HomeworkDictionary.runtimeconfig.json
+D:\Степапка\DEX\Домашние задания\Dictionary\HomeworkDictionary\HomeworkDictionary\bin\Debug\netcoreapp3.1\HomeworkDictionary.runtimeconfig.dev.json
+D:\Степапка\DEX\Домашние задания\Dictionary\HomeworkDictionary\HomeworkDictionary\bin\Debug\netcoreapp3.1\HomeworkDictionary.dll
+D:\Степапка\DEX\Домашние задания\Dictionary\HomeworkDictionary\HomeworkDictionary\bin\Debug\netcoreapp3.1\HomeworkDictionary.pdb
+D:\Степапка\DEX\Домашние задания\Dictionary\HomeworkDictionary\HomeworkDictionary\obj\Debug\netcoreapp3.1\HomeworkDictionary.csprojAssemblyReference.cache
+D:\Степапка\DEX\Домашние задания\Dictionary\HomeworkDictionary\HomeworkDictionary\obj\Debug\netcoreapp3.1\HomeworkDictionary.AssemblyInfoInputs.cache
+D:\Степапка\DEX\Домашние задания\Dictionary\HomeworkDictionary\HomeworkDictionary\obj\Debug\netcoreapp3.1\HomeworkDictionary.AssemblyInfo.cs
+D:\Степапка\DEX\Домашние задания\Dictionary\HomeworkDictionary\HomeworkDictionary\obj\Debug\netcoreapp3.1\HomeworkDictionary.dll
+D:\Степапка\DEX\Домашние задания\Dictionary\HomeworkDictionary\HomeworkDictionary\obj\Debug\netcoreapp3.1\HomeworkDictionary.pdb
+D:\Степапка\DEX\Домашние задания\Dictionary\HomeworkDictionary\HomeworkDictionary\obj\Debug\netcoreapp3.1\HomeworkDictionary.genruntimeconfig.cache
